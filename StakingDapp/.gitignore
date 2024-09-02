@@ -1,0 +1,7 @@
+.secret
+node_modules
+node_modules
+.vercel
+build
+artifacts
+cache

@@ -1,0 +1,97 @@
+<svg height="100%" stroke-miterlimit="10" version="1.1" viewBox="0 0 98 98" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientTransform="matrix(8.19199 0 0 8.16667 -0.32808 -0.177136)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="0.000264992" x2="11.9629" y1="6.00106" y2="6.00106">
+      <stop offset="0" stop-color="#0056d4"/>
+      <stop offset="1" stop-color="#2effef"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(8.19199 0 0 8.16667 -0.32808 -0.177136)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="2.10365" x2="9.75421" y1="2.51193" y2="2.51193">
+      <stop offset="0" stop-color="#0056d4"/>
+      <stop offset="1" stop-color="#2effef"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(8.19199 0 0 8.16667 -0.32808 -0.177136)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="2.20891" x2="9.85946" y1="9.43287" y2="9.43287">
+      <stop offset="0" stop-color="#0056d4"/>
+      <stop offset="1" stop-color="#2effef"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(8.19199 0 0 8.16667 -0.32808 -0.177136)" gradientUnits="userSpaceOnUse" id="LinearGradient_4" x1="5.98136" x2="5.98136" y1="8.63322" y2="3.45906">
+      <stop offset="0" stop-color="#0056d4"/>
+      <stop offset="1" stop-color="#2effef"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(8.19199 0 0 8.16667 -0.32808 -0.177136)" gradientUnits="userSpaceOnUse" id="LinearGradient_5" x1="3.88218" x2="8.08093" y1="4.42623" y2="4.42623">
+      <stop offset="0" stop-color="#0056d4"/>
+      <stop offset="1" stop-color="#2effef"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(8.19199 0 0 8.16667 -0.32808 -0.177136)" gradientUnits="userSpaceOnUse" id="LinearGradient_6" x1="3.88218" x2="8.08093" y1="7.66554" y2="7.66554">
+      <stop offset="0" stop-color="#0056d4"/>
+      <stop offset="1" stop-color="#2effef"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(8.19199 0 0 8.16667 -0.32808 -0.177136)" gradientUnits="userSpaceOnUse" id="LinearGradient_7" x1="3.88218" x2="8.02308" y1="5.59786" y2="5.59786">
+      <stop offset="0" stop-color="#0056d4"/>
+      <stop offset="1" stop-color="#2effef"/>
+    </linearGradient>
+  </defs>
+  <clipPath id="ArtboardFrame">
+    <rect height="98" width="98" x="0" y="0"/>
+  </clipPath>
+  <g clip-path="url(#ArtboardFrame)" id="Layer-1">
+    <g opacity="1">
+      <g opacity="1">
+        <g opacity="1">
+          <clipPath id="ClipPath">
+            <path d="M6.35108 60.3561C5.27894 55.9508 4.72838 52.311 4.72838 48.8157C4.72838 24.6081 24.4905 4.86369 48.8167 4.86369C67.5212 4.86369 84.0814 16.7941 90.0075 34.5164C91.7606 39.3551 92.5716 44.0493 92.5716 48.8157C92.5716 73.0954 72.9544 92.7677 48.8167 92.7677C29.0255 92.7677 11.5379 79.4216 6.35108 60.3561ZM-0.32808 48.8157C-0.32808 52.701 0.222478 56.7885 1.45399 61.6416C7.26385 82.9603 26.7508 97.8229 48.8311 97.8229C75.7506 97.8229 97.6719 75.8686 97.6719 48.8157C97.6719 43.457 96.7151 38.2285 94.817 32.8699C88.2249 13.0966 69.7235-0.177136 48.8311-0.177136C21.7233-0.177136-0.32808 21.835-0.32808 48.8157Z"/>
+          </clipPath>
+          <g clip-path="url(#ClipPath)">
+            <path d="M97.6719-0.177136L-0.32808-0.177136L-0.32808 97.8229L97.6719 97.8229L97.6719-0.177136Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+          </g>
+        </g>
+        <g opacity="1">
+          <clipPath id="ClipPath_2">
+            <path d="M16.8986 29.2157L45.3974 22.0227C47.4982 21.5028 49.6714 21.2427 51.8303 21.2427L51.8882 21.2427C52.5112 21.1994 66.5505 20.3472 77.3878 28.5946L79.5756 28.0457C71.7373 16.8664 57.8429 11.45 44.4557 14.3821L44.4557 14.3676L31.2856 17.6752L31.7348 12.7788L16.8986 29.2157Z"/>
+          </clipPath>
+          <g clip-path="url(#ClipPath_2)">
+            <path d="M79.5756 11.4356L16.8986 11.4356L16.8986 29.2157L79.5756 29.2157L79.5756 11.4356Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none"/>
+          </g>
+        </g>
+        <g opacity="1">
+          <clipPath id="ClipPath_3">
+            <path d="M51.9462 75.1609C49.8453 75.6808 47.6721 75.9408 45.5133 75.9408L45.4553 75.9408C44.8323 75.9841 30.7931 76.8362 19.9557 68.589L17.768 69.1379C25.6062 80.3172 39.5006 85.7337 52.8879 82.8011L52.8879 82.8158L66.0579 79.5084L65.6087 84.405L80.4304 67.9534L51.9462 75.1609Z"/>
+          </clipPath>
+          <g clip-path="url(#ClipPath_3)">
+            <path d="M80.4449 67.9679L17.768 67.9679L17.768 85.7476L80.4449 85.7476L80.4449 67.9679Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="none"/>
+          </g>
+        </g>
+        <g opacity="1">
+          <clipPath id="ClipPath_4">
+            <path d="M39.5151 28.0745C35.0816 28.0745 31.474 31.3533 31.474 35.3975L31.474 63.0138C31.474 67.058 35.0671 70.3366 39.5151 70.3366L65.8695 70.3366C65.8695 65.6714 61.7113 61.8871 56.5969 61.8871L51.3811 61.8871C46.2232 61.8871 42.0505 58.074 42.0505 53.3798L55.6986 53.3798C58.2631 53.3798 60.3349 51.4877 60.3349 49.1478C60.3349 46.808 58.2631 44.9158 55.6986 44.9158L42.0505 44.9158C42.0505 40.2795 46.1798 36.5097 51.2652 36.5097L56.5969 36.5097C61.7258 36.5097 65.8695 32.7255 65.8695 28.0602L39.5151 28.0602L39.5151 28.0745Z"/>
+          </clipPath>
+          <g clip-path="url(#ClipPath_4)">
+            <path d="M65.8695 28.0746L31.474 28.0746L31.474 70.3367L65.8695 70.3367L65.8695 28.0746Z" fill="url(#LinearGradient_4)" fill-rule="nonzero" opacity="1" stroke="none"/>
+          </g>
+        </g>
+        <g opacity="1">
+          <clipPath id="ClipPath_5">
+            <path d="M39.5151 28.0746C35.0816 28.0746 31.474 31.3533 31.474 35.3975L31.474 43.8759C31.474 39.8317 35.0671 36.553 39.5151 36.553L42.0505 36.5241L56.5969 36.5241C61.7258 36.5241 65.8695 32.7399 65.8695 28.0746L39.5151 28.0746L39.5151 28.0746Z"/>
+          </clipPath>
+          <g clip-path="url(#ClipPath_5)">
+            <path d="M65.8695 28.0746L31.474 28.0746L31.474 43.8759L65.8695 43.8759L65.8695 28.0746Z" fill="url(#LinearGradient_5)" fill-rule="nonzero" opacity="1" stroke="none"/>
+          </g>
+        </g>
+        <g opacity="1">
+          <clipPath id="ClipPath_6">
+            <path d="M31.474 62.9993C31.474 67.0435 35.0671 70.3222 39.5151 70.3222L65.8695 70.3222C65.8695 65.6569 61.7113 61.8727 56.5969 61.8727L42.0505 61.8727L39.5151 61.8438C35.0816 61.8438 31.474 58.5651 31.474 54.5209L31.474 62.9993Z"/>
+          </clipPath>
+          <g clip-path="url(#ClipPath_6)">
+            <path d="M65.8695 54.5354L31.474 54.5354L31.474 70.3366L65.8695 70.3366L65.8695 54.5354Z" fill="url(#LinearGradient_6)" fill-rule="nonzero" opacity="1" stroke="none"/>
+          </g>
+        </g>
+        <g opacity="1">
+          <clipPath id="ClipPath_7">
+            <path d="M31.474 46.1146C31.474 50.1588 35.0671 53.4376 39.5151 53.4376L65.4059 53.4376C65.4059 48.7723 61.2477 44.988 56.1333 44.988L56.3216 44.988L39.5296 44.9591C35.0961 44.9591 31.4885 41.6805 31.4885 37.6362L31.4885 46.1146L31.474 46.1146Z"/>
+          </clipPath>
+          <g clip-path="url(#ClipPath_7)">
+            <path d="M65.3914 37.6362L31.474 37.6362L31.474 53.4376L65.3914 53.4376L65.3914 37.6362Z" fill="url(#LinearGradient_7)" fill-rule="nonzero" opacity="1" stroke="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

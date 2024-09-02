@@ -1,0 +1,29 @@
+{
+    "plugins": [
+        "prettier-plugin-solidity"
+    ],
+    "singleQuote": true,
+    "printWidth": 120,
+    "editor.formatOnSave": true,
+    "proseWrap": "always",
+    "tabWidth": 4,
+    "requireConfig": false,
+    "useTabs": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "semi": true,
+    "overrides": [
+        {
+            "files": "*.sol",
+            "options": {
+                "parser": "solidity-parse",
+                "printWidth": 120,
+                "tabWidth": 4,
+                "useTabs": false,
+                "singleQuote": false,
+                "bracketSpacing": false
+            }
+        }
+    ]
+}
