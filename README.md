@@ -18,5 +18,6 @@ Staking dApp and Treasury Contracts.
 ## Note:
 - The Roulette Contract needs to have the Treasury address set since the Roulette Contract holds no tokens.
 - The Treasury Contract requires that 'Game Contracts' be whitelisted in order to authorize certain transactions to access tokens within the treasury and properly enable raking logic to stakers.
+- Do believe the current deployment scripts and other scripts handle this, but do double check!
 
 See the Readmes of each directory for more information.
