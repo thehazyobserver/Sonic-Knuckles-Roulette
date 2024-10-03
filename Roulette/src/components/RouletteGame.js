@@ -46,7 +46,7 @@ const RouletteGame = ({ balance, account }) => {
         setMustSpin(false);
         await dispatch(loadBalance(account));
         if (lastResult.result === true) {
-            toast.success(`Congratulations, you have earned ${lastResult.tokensEarned} Fknuckles!!`, {
+            toast.success(`Congratulations, you have earned ${lastResult.tokensEarned} Sonic Fknuckles!!`, {
                 position: 'top-right',
                 autoClose: 3000,
                 hideProgressBar: false,
@@ -79,7 +79,7 @@ const RouletteGame = ({ balance, account }) => {
                 const allowance = await contractsService.tokenAllowance(account);
                 if (allowance < betAmount.value) {
                     console.error('need more allowance');
-                    toast.error(`Not enough token Allowance! Please approve fKnuckles spend.`, {
+                    toast.error(`Not enough token Allowance! Please approve Sonic fKnuckles spend.`, {
                         position: 'top-right',
                         autoClose: 5000,
                         hideProgressBar: false,

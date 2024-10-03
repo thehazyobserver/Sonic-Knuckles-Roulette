@@ -8,7 +8,7 @@ async function main() {
 
     // Treasury
     const TREASURY = await ethers.getContractFactory('StakingTreasury');
-    const knucklesToken = '0x1f008f9af47b387BDF67a25f2B8219942207298f';
+    const knucklesToken = '0x3865c1c3fa1fdf7bec666e8fc9c0df3d98aee300';
     const knucklesLP = '0xD9Cb02ad1D3fD66a33172A8BFfF7Fcee774F7c0F';
 
     // stakingToken, rewardsToken, rake.

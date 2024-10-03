@@ -20,7 +20,7 @@ async function main() {
     console.log('Roulette address:', rouletteAddress);
 
     const MockERC20 = require('@openzeppelin/contracts/build/contracts/ERC20PresetFixedSupply.json');
-    const knucklesAddress = "0x1f008f9af47b387BDF67a25f2B8219942207298f";
+    const knucklesAddress = "0x3865c1c3fa1fdf7bec666e8fc9c0df3d98aee300";
     const KNUCKLES = await ethers.getContractFactory(MockERC20.abi, MockERC20.bytecode);
     const Knuckles = KNUCKLES.attach(knucklesAddress);
 
